@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil do Github
 
-<!--
-**Molinett10/Molinett10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Eduardo Molinett Cavasotto_ 🇧🇷10🥇
 
-Here are some ideas to get you started:
+- Jogo futsal, futebol e truco
+- Estudo no Colégio Estadual Rui Barbosa E.F.M
+- torço pro Grêmio 🇪🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas redes sociais instagram e tik tok:
+- @eduardo_molinett
+- @duduz1714
+
+![](https://tenor.com/pt-BR/view/chico-moedas-gifs-gif-13650831722905111255)
